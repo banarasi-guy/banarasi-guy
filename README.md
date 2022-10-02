@@ -1,7 +1,7 @@
-[!MasterHead](https://w0.peakpx.com/wallpaper/891/845/HD-wallpaper-coding-programming-simple-code-conditional-programming-technology.jpg
+[!MasterHead](https://w0.peakpx.com/wallpaper/891/845/HD-wallpaper-coding-programming-simple-code-conditional-programming-technology.jpg)
 <h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align="right" alt = "coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-25183725&psig=AOvVaw3KKDoxEUQV6DQlYrwFoCev&ust=1664807731330000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCd957iwfoCFQAAAAAdAAAAABAX.gif">
+<image align="right" alt = "coding" width = "400" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banarasi-guy&label=Profile%20views&color=0e75b6&style=flat" alt="banarasi-guy" /> </p>
 
