@@ -1,4 +1,4 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/891/845/HD-wallpaper-coding-programming-simple-code-conditional-programming-technology.jpg)
+
 <h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <image align="right" alt = "coding" width = "400" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
